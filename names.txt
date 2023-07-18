@@ -1,0 +1,5 @@
+Elena 25 43
+Juan 5 8
+Sonia 2 1
+Julia 3 17
+The number of names with initial J is 2
